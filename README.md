@@ -15,7 +15,9 @@ Learn how multi-stage builds address the shortcomings of single-stage builds. Di
 
 ## Practical Comparison
 Discover why Golang is an ideal candidate for demonstrating the benefits of multi-stage Docker builds. Compare the image size reduction achieved through multi-stage builds with the traditional approach, highlighting the substantial reduction in image size.
+Standard stage:
 ![image](https://github.com/abhinav2712/docker-multi-stage-builds/assets/68495520/f68abb93-8ec9-4d45-993d-53f5fdc94700)
+Multi-level stage:
 ![image](https://github.com/abhinav2712/docker-multi-stage-builds/assets/68495520/38c0d434-6be2-418f-8905-f944994d9b4a)
 
 ## Conclusion
